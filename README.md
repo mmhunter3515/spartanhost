@@ -5,7 +5,7 @@
 
 ## 1\. 关于斯巴达主机
 
-[Spartan Host](https://billing.spartanhost.net/)成立于 2013 年 5 月，他们最初提供 Minecraft 服务器，但此后不断发展其提供的服务，包括虚拟主机、VPS、专用服务器和托管。
+[Spartan Host](https://billing.spartanhost.net/aff.php?aff=2582)成立于 2013 年 5 月，他们最初提供 Minecraft 服务器，但此后不断发展其提供的服务，包括虚拟主机、VPS、专用服务器和托管。
 
 他们在 4 个地点提供 Minecraft 服务器：凤凰城、伦敦、西雅图和勒努瓦。专用服务器、VPS 和托管仅位于西雅图（Wowrack 的南西雅图数据中心）和达拉斯（Psychz 的 Carrier-1 套件）。[检查有关数据中心的详细信息](https://spartanhost.org/dc-seattle)。
 
@@ -13,7 +13,7 @@
 
 最令人印象深刻的是他们的服务质量，非常快速且乐于助人。通常您的问题会在一小时内得到答复，看起来他们总是可以提供支持。
 
-如果您正在寻找 Minecraft 服务器，Spartan Host 的[Minecraft 计划](https://spartanhost.org/minecraft)是一个不错的选择。他们还提供[2 天免费试用，](https://billing.spartanhost.net/aff.php?pid=14)以确保满足您的需求。
+如果您正在寻找 Minecraft 服务器，Spartan Host 的[Minecraft 计划](https://billing.spartanhost.net/aff.php?aff=2582)是一个不错的选择。他们还提供[2 天免费试用，](https://billing.spartanhost.net/aff.php?aff=2582)以确保满足您的需求。
 
 您可以使用 Multicraft 控制面板来完全控制您的 Minecraft 服务器，并对其进行配置以满足您的需求。是的，我们有 24/7 客户支持来帮助您提供插件支持、诊断服务器问题以及上传自定义 modpack 或文件。
 
@@ -72,12 +72,12 @@ Spartan Host 西雅图 VPS 的最新优惠券和促销代码：**KVM20**，尝�
 
 | 中央处理器 | 内存 | NVMe  | 带宽  | 价格   | 命令                                                    |
 | ---------- | ---- | ----- | ----- | ------ | ------------------------------------------------------- |
-| 2 个核心   | 2G   | 50GB  | 3TB   | $12/月 | [关联](https://billing.spartanhost.net/aff.php?pid=369) |
-| 2 个核心   | 2.5G | 62GB  | 3.5TB | $15/月 | [关联](https://billing.spartanhost.net/aff.php?pid=370) |
-| 3 个核心   | 3G   | 75GB  | 4TB   | $18/月 | [关联](https://billing.spartanhost.net/aff.php?pid=371) |
-| 4 个 vCore | 4G   | 100GB | 5TB   | $24/月 | [关联](https://billing.spartanhost.net/aff.php?pid=372) |
-| 4 个 vCore | 6G   | 150GB | 7TB   | $36/月 | [关联](https://billing.spartanhost.net/aff.php?pid=374) |
-| 5 个核心   | 8G   | 200GB | 9TB   | $48/月 | [关联](https://billing.spartanhost.net/aff.php?pid=375) |
+| 2 个核心   | 2G   | 50GB  | 3TB   | $12/月 | [关联](https://billing.spartanhost.net/aff.php?aff=2582&pid=369) |
+| 2 个核心   | 2.5G | 62GB  | 3.5TB | $15/月 | [关联](https://billing.spartanhost.net/aff.php?aff=2582&pid=370) |
+| 3 个核心   | 3G   | 75GB  | 4TB   | $18/月 | [关联](https://billing.spartanhost.net/aff.php?aff=2582&pid=371) |
+| 4 个 vCore | 4G   | 100GB | 5TB   | $24/月 | [关联](https://billing.spartanhost.net/aff.php?aff=2582&pid=372) |
+| 4 个 vCore | 6G   | 150GB | 7TB   | $36/月 | [关联](https://billing.spartanhost.net/aff.php?aff=2582&pid=374) |
+| 5 个核心   | 8G   | 200GB | 9TB   | $48/月 | [关联](https://billing.spartanhost.net/aff.php?aff=2582&pid=375) |
 
 **2\. DDoS 保护 SSD E5 KVM VPS - 西雅图**
 
@@ -91,12 +91,12 @@ Spartan Host 西雅图 VPS 的最新优惠券和促销代码：**KVM20**，尝�
 
 | 中央处理器 | 内存 | NVMe  | 带宽  | 价格     | 命令                                                    |
 | ---------- | ---- | ----- | ----- | -------- | ------------------------------------------------------- |
-| 2 个核心   | 2G   | 30GB  | 3TB   | $10/月   | [关联](https://billing.spartanhost.net/aff.php?pid=338) |
-| 2 个核心   | 2.5G | 38GB  | 3.5TB | $12.5/月 | [关联](https://billing.spartanhost.net/aff.php?pid=339) |
-| 3 个核心   | 3G   | 45GB  | 4TB   | $15/月   | [关联](https://billing.spartanhost.net/aff.php?pid=340) |
-| 4 个 vCore | 4G   | 60GB  | 5TB   | $20/月   | [关联](https://billing.spartanhost.net/aff.php?pid=341) |
-| 4 个 vCore | 6G   | 90GB  | 7TB   | $30/月   | [关联](https://billing.spartanhost.net/aff.php?pid=342) |
-| 5 个核心   | 8G   | 120GB | 9TB   | $40/月   | [关联](https://billing.spartanhost.net/aff.php?pid=343) |
+| 2 个核心   | 2G   | 30GB  | 3TB   | $10/月   | [关联](https://billing.spartanhost.net/aff.php?aff=2582&pid=338) |
+| 2 个核心   | 2.5G | 38GB  | 3.5TB | $12.5/月 | [关联](https://billing.spartanhost.net/aff.php?aff=2582&pid=339) |
+| 3 个核心   | 3G   | 45GB  | 4TB   | $15/月   | [关联](https://billing.spartanhost.net/aff.php?aff=2582&pid=340) |
+| 4 个 vCore | 4G   | 60GB  | 5TB   | $20/月   | [关联](https://billing.spartanhost.net/aff.php?aff=2582&pid=341) |
+| 4 个 vCore | 6G   | 90GB  | 7TB   | $30/月   | [关联](https://billing.spartanhost.net/aff.php?aff=2582&pid=342) |
+| 5 个核心   | 8G   | 120GB | 9TB   | $40/月   | [关联](https://billing.spartanhost.net/aff.php?aff=2582&pid=343) |
 
 **3\. DDoS 保护 SSD E5 KVM VPS - 达拉斯**
 
@@ -110,13 +110,13 @@ Spartan Host 西雅图 VPS 的最新优惠券和促销代码：**KVM20**，尝�
 
 | 中央处理器 | 内存 | NVMe  | 带宽  | 价格   | 命令                                                    |
 | ---------- | ---- | ----- | ----- | ------ | ------------------------------------------------------- |
-| 1 个核心   | 1G   | 25GB  | 2TB   | $6/月  | [关联](https://billing.spartanhost.net/aff.php?pid=317) |
-| 2 个核心   | 2G   | 50GB  | 3TB   | $12/月 | [关联](https://billing.spartanhost.net/aff.php?pid=318) |
-| 2 个核心   | 2.5G | 62GB  | 3.5TB | $15/月 | [关联](https://billing.spartanhost.net/aff.php?pid=320) |
-| 3 个核心   | 3G   | 75GB  | 4TB   | $18/月 | [关联](https://billing.spartanhost.net/aff.php?pid=319) |
-| 4 个 vCore | 4G   | 100GB | 5TB   | $24/月 | [关联](https://billing.spartanhost.net/aff.php?pid=321) |
-| 4 个 vCore | 6G   | 150GB | 7TB   | $36/月 | [关联](https://billing.spartanhost.net/aff.php?pid=322) |
-| 5 个核心   | 8G   | 200GB | 9TB   | $48/月 | [关联](https://billing.spartanhost.net/aff.php?pid=323) |
+| 1 个核心   | 1G   | 25GB  | 2TB   | $6/月  | [关联](https://billing.spartanhost.net/aff.php?aff=2582&pid=317) |
+| 2 个核心   | 2G   | 50GB  | 3TB   | $12/月 | [关联](https://billing.spartanhost.net/aff.php?aff=2582&pid=318) |
+| 2 个核心   | 2.5G | 62GB  | 3.5TB | $15/月 | [关联](https://billing.spartanhost.net/aff.php?aff=2582&pid=320) |
+| 3 个核心   | 3G   | 75GB  | 4TB   | $18/月 | [关联](https://billing.spartanhost.net/aff.php?aff=2582&pid=319) |
+| 4 个 vCore | 4G   | 100GB | 5TB   | $24/月 | [关联](https://billing.spartanhost.net/aff.php?aff=2582&pid=321) |
+| 4 个 vCore | 6G   | 150GB | 7TB   | $36/月 | [关联](https://billing.spartanhost.net/aff.php?aff=2582&pid=322) |
+| 5 个核心   | 8G   | 200GB | 9TB   | $48/月 | [关联](https://billing.spartanhost.net/aff.php?aff=2582&pid=323) |
 
 **4.存储KVM VPS - 达拉斯**
 
@@ -131,11 +131,11 @@ Spartan Host 西雅图 VPS 的最新优惠券和促销代码：**KVM20**，尝�
 
 | 中央处理器 | 内存 | 硬盘   | 带宽   | 价格     | 命令                                                    |
 | ---------- | ---- | ------ | ------ | -------- | ------------------------------------------------------- |
-| 1 个核心   | 1G   | 1000GB | 3TB    | $6/月    | [关联](https://billing.spartanhost.net/aff.php?pid=88)  |
-| 1 个核心   | 1G   | 1250GB | 3.75TB | $7.5/月  | [关联](https://billing.spartanhost.net/aff.php?pid=97)  |
-| 1 个核心   | 1G   | 1500GB | 4.5TB  | $9/月    | [关联](https://billing.spartanhost.net/aff.php?pid=98)  |
-| 1 个核心   | 1G   | 1750GB | 5.25TB | $10.5/月 | [关联](https://billing.spartanhost.net/aff.php?pid=99)  |
-| 1 个核心   | 1G   | 2000GB | 6TB    | $12/月   | [关联](https://billing.spartanhost.net/aff.php?pid=100) |
+| 1 个核心   | 1G   | 1000GB | 3TB    | $6/月    | [关联](https://billing.spartanhost.net/aff.php?aff=2582&pid=88)  |
+| 1 个核心   | 1G   | 1250GB | 3.75TB | $7.5/月  | [关联](https://billing.spartanhost.net/aff.php?aff=2582&pid=97)  |
+| 1 个核心   | 1G   | 1500GB | 4.5TB  | $9/月    | [关联](https://billing.spartanhost.net/aff.php?aff=2582&pid=98)  |
+| 1 个核心   | 1G   | 1750GB | 5.25TB | $10.5/月 | [关联](https://billing.spartanhost.net/aff.php?aff=2582&pid=99)  |
+| 1 个核心   | 1G   | 2000GB | 6TB    | $12/月   | [关联](https://billing.spartanhost.net/aff.php?aff=2582&pid=100) |
 
 **4\. 专用服务器**
 
@@ -145,8 +145,8 @@ Spartan Host 西雅图 VPS 的最新优惠券和促销代码：**KVM20**，尝�
 
 检查所有专用服务器计划：
 
-- [DDoS 保护西雅图专用服务器](https://billing.spartanhost.net/aff.php?gid=8)
-- [DDoS 保护达拉斯专用服务器](https://billing.spartanhost.net/aff.php?gid=18)
+- [DDoS 保护西雅图专用服务器](https://billing.spartanhost.net/aff.php?aff=2582&gid=8)
+- [DDoS 保护达拉斯专用服务器](https://billing.spartanhost.net/aff.php?aff=2582&gid=18)
 
 如果您有任何问题，请联系 Spartan Host 寻求帮助。他们真的很棒而且很专业
 SpartanHost 上的比特币 VPS 更多信息
